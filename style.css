@@ -1,0 +1,41 @@
+
+html, body{
+    margin: 0;
+    width: 100%;
+}
+
+.main-container{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.img-background{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    
+  
+}
+h1{
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: 20px;
+    text-shadow: 0 0 10px  rgb(216, 218, 214); 
+    
+    color: rgb(14, 12, 12);
+   font-family: 'Oswald', sans-serif;
+   letter-spacing: 5px;
+
+}
+#clock{
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: white;
+    
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25%;
+    
+    text-shadow: 0 0 15px  rgb(246, 153, 4);
+}
